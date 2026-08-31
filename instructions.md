@@ -5,7 +5,7 @@
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/AKSHAYKUMAR_hubg/TDD_setup
+git clone https://github.com/Akshay0112/TDD_setup
 cd TDD_setup
 ```
 
