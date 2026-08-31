@@ -4,7 +4,7 @@
 
 ```bash
 # 1) Clone toolkit
-git clone https://github.com/AKSHAYKUMAR_hubg/TDD_setup
+git clone https://github.com/Akshay0112/TDD_setup
 cd TDD_setup
 
 # 2) Install into your project
@@ -41,7 +41,7 @@ It includes:
 ### 1) Clone this repository
 
 ```bash
-git clone https://github.com/AKSHAYKUMAR_hubg/TDD_setup
+git clone https://github.com/Akshay0112/TDD_setup
 cd TDD_setup
 ```
 
